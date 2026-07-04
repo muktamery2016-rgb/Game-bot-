@@ -3334,7 +3334,7 @@ async def banecipher(target_uid, key, iv):
     return bytes.fromhex(final_packet)
 
 async def black666(client_id, key, iv):
-    banner_text = "[FF0000][B][C] ERROR , WELCOME TO [FFFFFF]AROHI [FFFF00]___X³____ BOT ! \n[FFFF00]NEW VERSION NEW FUNCTION !\n[FF0000]TELEGRAM : @classic_aruhi\n\n"     
+    banner_text = "[FF0000][B][C] ERROR , WELCOME TO [FFFFFF]MARUF [FFFF00]___X³____ BOT ! \n[FFFF00]NEW VERSION NEW FUNCTION !\n[FF0000]TELEGRAM : @NAI \n\n"     
     fields = {
         1: 5,
         2: {
@@ -7431,12 +7431,12 @@ async def TcPOnLine(ip, port, key, iv, AutHToKen, reconnect_delay=0.5):
                         def get_random_color(): return "_" 
                         message = """[B][C]
 [00FFFF]╔━━━─    [A80000]•[00FFFF]      ─━━╗
-[00FFFF]    ✦ WELCOME TO Ꮋꫝsɪʙ Cᴏᴅᴇx TCP ✦
+[00FFFF]    ✦ WELCOME TO MARUF HASAN TCP ✦
 [00FFFF]╚━━━─[A80000] • [00FFFF]─━━━╝
 
 [00FF00]🌟 Welcome To The Server 🌟
 
-[FFD053]✨ Glad To Have You Here ✨
+[FFD053]✨ I LOVE YOU GIRLS  ✨
 
 [FFD053]⚡ Respect Everyone • Stay Active ⚡
 
